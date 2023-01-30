@@ -5,12 +5,12 @@ Understanding the labor market demand can (1) help present and future profession
 The figures below shows a high-level view of the data flow to extract the in-demand skill sets from the online job portal as well as the database schema employed in PostgreSQL. The data flow architecture is composed of five layers including: (1) data source, (2) data ingest layer, (3) data warehouse, (4) machine learning, and (5) data visualization.
 
 <p align="center">
-  <img src="https://github.com/cpmalenab/market_demand_analysis_for_DE_skills/blob/main/images/Data%20Flow%20Diagram.jpg">
+  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/Data%20Flow%20Diagram.jpg">
 </p>
 <p align="center">Figure. Data Flow Diagram</p>
 
 <p align="center">
-  <img src="https://github.com/cpmalenab/market_demand_analysis_for_DE_skills/blob/main/images/database%20schema.png">
+  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/database%20schema.png">
 </p>
 <p align="center">Figure. Database Schema</p>
 
@@ -52,14 +52,14 @@ The United States Geological Survey (USGS) is an agency that monitors natural ha
 The figure below shows the effect of varying the number of trials to the smoothness of the curve.
 
 <p align="center">
-  <img src="https://github.com/cpmalenab/seismic_hazard_assessment/blob/main/images/simulation.PNG">
+  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/simulation.PNG">
 </p>
 <p align="center">Figure. Monte Carlo Simulation with Varying Number of Trials</p>
 
 The plot of hazard curves with varying number of years show that at lower probabilities of exceedance (more rare events), the tail end of the graph is not as defined as those with higher probabilities. Thus, a large number of samples is required to obtain more data points at the regions of lower probability.
 
 <p align="center">
-  <img src="https://github.com/cpmalenab/seismic_hazard_assessment/blob/main/images/annual%20hazard%20curves%20for%20different%20periods.PNG">
+  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/annual%20hazard%20curves%20for%20different%20periods.PNG">
 </p>
 
 <p align="center">Figure. Annual Hazard Curves for Different Structural Periods (no. of years = 1,000,000)</p>
