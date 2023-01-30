@@ -11,7 +11,7 @@ The figures below shows a high-level view of the data flow to extract the in-dem
 <p align="center">Figure. Data Flow Diagram</p>
 
 <p align="center">
-  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/database_schema.pngg">
+  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/database_schema.png">
 </p>
 <p align="center">Figure. Database Schema</p>
 
