@@ -1,3 +1,5 @@
+# Project Portfolio
+
 # [Project 1: Market Demand Analysis for Data Engineering Skills using Data Modeling and Text Mining](https://github.com/cpmalenab/market_demand_analysis_for_DE_skills)
 
 Understanding the labor market demand can (1) help present and future professionals build their portfolio with the most marketable skills, (2) supplement the frameworks of educational institutions and training centers to better prepare students in the digital industry, and (3) give an insight to the general landscape of data engineering industry with the Philippines as the geographical focus.
@@ -5,7 +7,7 @@ Understanding the labor market demand can (1) help present and future profession
 The figures below shows a high-level view of the data flow to extract the in-demand skill sets from the online job portal as well as the database schema employed in PostgreSQL. The data flow architecture is composed of five layers including: (1) data source, (2) data ingest layer, (3) data warehouse, (4) machine learning, and (5) data visualization.
 
 <p align="center">
-  <img src="https://github.com/cpmalenab/Data-Project-Portfolio/blob/main/images/Data%20Flow%20Diagram.jpg">
+  <img src="/images/Data%20Flow%20Diagram.jpg">
 </p>
 <p align="center">Figure. Data Flow Diagram</p>
 
